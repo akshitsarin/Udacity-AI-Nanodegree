@@ -11,3 +11,9 @@ Combining symbolic logic and classical search to implement an agent that perform
 ## Project 3: Build an Adversarial Game Playing Agent
 Creating a custom advanced heuristic to experiment with adversarial search techniques by building an agent to play knights Isolation. In this version of Isolation, each agent has control over a single token that moves in L-shaped movements--like a knight in a  game of chess.
 The agents have a fixed time limit (150 milliseconds by default) to search for the best move and respond. The search will be automatically cut off after the time limit expires, and the active agent will forfeit the game if it has not chosen a move. The new agent has been built by combining minimax search with alpha-beta pruning and iterative deepening, along with a custom heuristic.
+
+## Project 3: Tagging Parts Of Speech
+Using the Pomegranate library to build a Hidden Markov model for part of speech tagging with a universal tagset.
+Hidden Markov models have been able to achieve >96% tag accuracy with larger tagsets on realistic text corpora.
+Hidden Markov models have also been used for speech recognition and speech generation, machine translation, gene recognition for bioinformatics, and human gesture recognition for computer vision, and more.
+<br>A training accuracy of <b>97.53%</b> and testing accuracy of <b>95.83%</b> has been achieved.
