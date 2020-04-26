@@ -1,6 +1,5 @@
 # Udacity-AI-Nanodegree
 ![Degree](Udacity-AIND.png)<br>
-[link to pdf](file://Udacity-AIND.pdf) <br>
 Repo of all code/files related to the Udacity's Artificial Intelligence Nanodegree Program
 
 ## Project 1: Sudoku Solver
